@@ -19,7 +19,7 @@
 
 #### From this repository
 1. Clone this repository  
-`git clone https://github.com/kde_grue && cd kde_gru/kde-store-archives/global-theme`  
+`git clone https://github.com/prayag2/kde_gru && cd kde_gru/kde-store-archives/global-theme`  
 2. Install using the script  
 `kpackagetool5 -i gru_global.tar.gz`
   
