@@ -5,7 +5,7 @@
 <p align="center">A desaturated bluish-green colour scheme that's easy on the eyes!</p>
 
 <p align="center">
-  <img src="-"/>
+  <img src="https://github.com/Prayag2/kde_gru/blob/main/assets/ss_1.png"/>
 </p>
 
 ## Installation
