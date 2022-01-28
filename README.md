@@ -2,7 +2,11 @@
   <h2 align="center">Gru for KDE</h2>
 </p>
 
-<p align="center">A desaturated bluish-green colour scheme that's easy on the eyes!</p>
+<p align="center">
+<a href="https://github.com/prayag2/kde_gru/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/prayag2/kde_gru?color=%23C3D5D1&style=for-the-badge"></a>
+<a href="https://github.com/prayag2/kde_gru/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/prayag2/kde_gru?color=%23B4CAC7&style=for-the-badge"></a>
+<a href="https://github.com/prayag2/kde_gru/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/prayag2/kde_gru?color=%23A4C1BB&style=for-the-badge"></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/Prayag2/kde_gru/blob/main/assets/ss_1.png"/>
