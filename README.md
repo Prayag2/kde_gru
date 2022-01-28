@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://github.com/Prayag2/kde_gru/blob/main/assets/logo.png" width=100/>
   <h2 align="center">Gru for KDE</h2>
 </p>
 
